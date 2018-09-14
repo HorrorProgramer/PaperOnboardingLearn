@@ -200,6 +200,7 @@ extension PaperOnboarding {
         guard let color = itemsInfo?[index].color else {
             return .black
         }
+        
         return color
     }
 }
