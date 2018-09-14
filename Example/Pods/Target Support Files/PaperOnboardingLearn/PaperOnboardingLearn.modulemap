@@ -1,0 +1,6 @@
+framework module PaperOnboardingLearn {
+  umbrella header "PaperOnboardingLearn-umbrella.h"
+
+  export *
+  module * { export * }
+}
